@@ -1,0 +1,15 @@
+C:\Users\katya\source\repos\Сinema\obj\Debug\Сinema.csproj.AssemblyReference.cache
+C:\Users\katya\source\repos\Сinema\obj\Debug\MainWindow.g.cs
+C:\Users\katya\source\repos\Сinema\obj\Debug\App.g.cs
+C:\Users\katya\source\repos\Сinema\obj\Debug\Сinema_MarkupCompile.cache
+C:\Users\katya\source\repos\Сinema\obj\Debug\Сinema_MarkupCompile.lref
+C:\Users\katya\source\repos\Сinema\bin\Debug\Сinema.exe.config
+C:\Users\katya\source\repos\Сinema\bin\Debug\Сinema.exe
+C:\Users\katya\source\repos\Сinema\bin\Debug\Сinema.pdb
+C:\Users\katya\source\repos\Сinema\obj\Debug\MainWindow.baml
+C:\Users\katya\source\repos\Сinema\obj\Debug\Сinema.g.resources
+C:\Users\katya\source\repos\Сinema\obj\Debug\Сinema.Properties.Resources.resources
+C:\Users\katya\source\repos\Сinema\obj\Debug\Сinema.csproj.GenerateResource.cache
+C:\Users\katya\source\repos\Сinema\obj\Debug\Сinema.csproj.CoreCompileInputs.cache
+C:\Users\katya\source\repos\Сinema\obj\Debug\Сinema.exe
+C:\Users\katya\source\repos\Сinema\obj\Debug\Сinema.pdb
